@@ -9,15 +9,6 @@ comments: false
 ---
 
 
-|    |    | **Experience**                                                             |
-|----|----|-------------------------------------------------------------------------------|
-|2018| now| **Assistant Professor**, Computer Sceince Department, IUST, Tehran, Iran |
-|----|----|-------------------------------------------------------------------------------|
-|2005|2018| **Senior Research Software Development Engineer**, Microsoft Research, Redmond WA |
-|----|------|-------------------------------------------------------------------------------|
-|2005|      | **Research Intern**, Microsoft Research, Redmond WA |
-|----|------|-------------------------------------------------------------------------------|
-|2004|      | **Research Intern**, Microsoft Research, Redmond WA |
 
 
 
@@ -25,4 +16,4 @@ comments: false
 |---- |----|-------------------------------------------------------------------------------|
 |2020 | ...| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran    |
 
- **ED**
+
