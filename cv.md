@@ -22,8 +22,6 @@ comments: false
 
 
 |     |    |**Education**                                                               |
-|-----|----|----------------------------------------------------------------------------------|
-|2008 |2016| **PhD**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
-|-----|----|----------------------------------------------------------------------------------|
-|2003 |2005| **MSc**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
 |2020 | ...| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran               |
+
+   **ED**
