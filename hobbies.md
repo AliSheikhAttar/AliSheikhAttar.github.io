@@ -10,5 +10,8 @@ comments: false
 
 
 * [tk](http://www.tiktok.com/)
+* [yt](http://www.youtube.com/)
+* [tr](http://www.twitter.com/)
+* [tg](http://www.telegram.com/)
 
 
