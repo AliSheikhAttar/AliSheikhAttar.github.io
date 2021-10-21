@@ -11,10 +11,6 @@ gallery:
     image_path: /assets/images/1.jpg
     alt: "placeholder image 1"
     title: "blind girl"
-  - url: /assets/images/einstein.jpg
-    image_path: /assets/images/einstein.jpg
-    alt: "placeholder image einstein"
-    title: "einstein" 
   - url: /assets/images/eye.jpg
     image_path: /assets/images/eye.jpg
     alt: "eye"
