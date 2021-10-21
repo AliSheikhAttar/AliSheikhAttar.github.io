@@ -21,7 +21,8 @@ comments: false
 
 
 
-|     |    |**Education**                                                               |
-|2020 | ...| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran               |
+|     |    |**Education**                                                                  |
+|---- |----|-------------------------------------------------------------------------------|
+|2020 | ...| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran    |
 
-   **ED**
+ **ED**
