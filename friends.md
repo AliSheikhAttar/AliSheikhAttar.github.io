@@ -11,7 +11,7 @@ comments: true
 ### همکلاسی‌ها
 * ابولفضل ابدولملکی
 * [سینا زمانی](https://github.com/sinazamani9364/sinazamani9364.github.io)
-* [نوید ابراهیمی]
+* [نوید ابراهیمی](https://github.com/ebrahiminavid/ebrahiminavid.github.io)
 
 
 
