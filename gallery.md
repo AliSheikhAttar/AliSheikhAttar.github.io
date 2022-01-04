@@ -22,7 +22,11 @@ gallery:
   - url: /assets/images/flower.jpg
     image_path: /assets/images/flower.jpg
     alt: "placeholder image flower"
-    title: "flowers"    
+    title: "flowers"   
+  - url: /assets/images/colleges.jpg
+    image_path: /assets/images/colleges.jpg
+    alt: "placeholder image colleges"
+    title: "colleges"   
 ---
 
 {% include gallery caption="" %}
